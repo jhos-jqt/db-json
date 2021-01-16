@@ -1,0 +1,25 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Kotlin desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/medium/d793ee5a-9dd1-4a3a-9c82-9b08a5f89a52.png",
+            "price": 50,
+            "teacher": "Jhosmir Quispe"
+        },
+        {
+            "id": 2,
+            "title": "JavaScript desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/61e5a210-8dab-412e-a6dc-802c070cc18c.jpg",
+            "price": 40,
+            "teacher": "Cristian Quispe"
+        },
+        {
+            "id": 3,
+            "title": ".Net 5 desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/medium/23f1f71c-3fa1-49ff-a7f5-0666dee581e5.png",
+            "price": 40,
+            "teacher": "Lidia Tarqui"
+        }
+    ]
+}
